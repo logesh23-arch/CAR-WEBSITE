@@ -1,0 +1,47 @@
+body{
+    background: url(black12.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.content1{
+    text-align: center;
+    width: 350px;
+    height: 490px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 8%;
+    font-size: 20px;
+    padding: 50px;
+}
+.content1 span{
+    color: red;
+}
+.p{
+    font-size: 15px;
+}
+
+.IN1 input{
+    width: 100%;
+    height: 30px;
+    border: 1PX solid black;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.button button{
+    width: 100%;
+    height: 30px;
+    border: 1px solid black;
+    background-color: red;
+    color: aliceblue;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+.button #b1{
+    background-color: gray;
+    color: black;
+    cursor: pointer;
+}
